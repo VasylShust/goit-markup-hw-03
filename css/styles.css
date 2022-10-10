@@ -321,7 +321,8 @@ gap: 30px;
   letter-spacing: 0.06em;
 margin-top: 0px;
 margin-bottom: 4px;
-
+padding-left: 24px;
+padding-right: 24px;
   color: var(--title-text-color);
 }
 
@@ -332,13 +333,13 @@ margin-bottom: 4px;
 margin-top: 0px;
 margin-bottom: 20px;
 color: var(--primary-text-color);
+padding-left: 24px;
+padding-right: 24px;
 }
 .card-bottom{
   border-left: 1px solid #EEEEEE;
   border-right: 1px solid #EEEEEE;
   border-bottom: 1px solid #EEEEEE;
-  padding-left: 24px;
-padding-right: 24px;
 }
 
 .footer {
