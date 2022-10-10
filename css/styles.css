@@ -308,7 +308,7 @@ margin-bottom: 30px;
 gap: 30px;
 }
 .card{
-  width: 370px;
+  width: calc((100%-60px)/3);
 }
 .img-portfolio{
   margin-bottom: 20px;
